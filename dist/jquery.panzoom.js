@@ -1,6 +1,6 @@
 /**
  * @license jquery.panzoom.js v3.2.2
- * Updated: Sun Aug 28 2016
+ * Updated: Fri Feb 17 2017
  * Add pan and zoom functionality to any element
  * Copyright (c) timmy willison
  * Released under the MIT license
@@ -1161,7 +1161,7 @@
 			this.transition(true);
 
 			// Indicate that we are currently panning
-			this.panning = true;
+			// this.panning = true;
 
 			// Trigger start event
 			this._trigger('start', event, touches);
