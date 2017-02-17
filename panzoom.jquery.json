@@ -22,7 +22,6 @@
   "bugs": "https://github.com/timmywil/jquery.panzoom/issues",
   "homepage": "http://timmywil.github.io/jquery.panzoom/",
   "docs": "https://github.com/timmywil/jquery.panzoom/blob/master/README.md",
-  "download": "https://github.com/timmywil/jquery.panzoom/tags",
   "dependencies": {
     "jquery": ">=1.9.0"
   }
