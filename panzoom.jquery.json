@@ -9,11 +9,9 @@
     "zoom",
     "panzoom"
   ],
-  "version": "3.2.2",
+  "version": "3.2.3",
   "author": {
-    "name": "Timmy Willison",
-    "email": "timmywillisn@gmail.com",
-    "url": "http://timmywillison.com"
+    "name": "Timmy Willison"
   },
   "licenses": [
     {
