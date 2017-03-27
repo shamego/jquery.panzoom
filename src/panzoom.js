@@ -905,7 +905,7 @@
 			// No need to add styles to the body
 			if ($parent.length && !$.nodeName(this.parent, 'body')) {
 				styles = {
-					overflow: 'hidden'
+					// overflow: 'hidden'
 				};
 				if ($parent.css('position') === 'static') {
 					styles.position = 'relative';

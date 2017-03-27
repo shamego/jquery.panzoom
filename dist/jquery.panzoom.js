@@ -1,6 +1,6 @@
 /**
  * @license jquery.panzoom.js v3.2.3
- * Updated: Fri Feb 17 2017
+ * Updated: Mon Mar 27 2017
  * Add pan and zoom functionality to any element
  * Copyright (c) timmy willison
  * Released under the MIT license
@@ -905,7 +905,7 @@
 			// No need to add styles to the body
 			if ($parent.length && !$.nodeName(this.parent, 'body')) {
 				styles = {
-					overflow: 'hidden'
+					// overflow: 'hidden'
 				};
 				if ($parent.css('position') === 'static') {
 					styles.position = 'relative';
